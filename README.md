@@ -1,6 +1,6 @@
 # Dzukou Dynamic Pricing Toolkit
 
-This project provides a lightweight workflow for analysing competitor prices and recommending new pricing for Dzukou products. The repository contains small utilities for scraping online stores, running price optimisation algorithms and visualising the expected impact on profit.
+This project provides a lightweight workflow for analysing competitor prices and recommending new pricing for Dzukou products. The repository contains small utilities for scraping online stores, running price optimisation algorithms and visualising the expected impact on profit. All tools run locally from the command line without any web or Streamlit interface.
 
 ## Repository overview
 
